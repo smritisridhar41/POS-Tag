@@ -1,4 +1,4 @@
-# POS-Tag
+# Part of Speech-Tag
 There are two “tagsets” that are more commonly used to classify the PoS of a word: the Universal Dependencies Tagset (simpler, used by spaCy) and the Penn Treebank Tagset (more detailed, used by nltk).
 
 Ultimately, what PoS Tagging means is assigning the correct PoS tag to each word in a sentence. 
